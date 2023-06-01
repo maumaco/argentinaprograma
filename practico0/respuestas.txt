@@ -1,0 +1,45 @@
+PRÁCTICO 0
+Parte 1: pequeños ejemplos
+
+Nota
+Cada uno de los archivos JavaScript imprime por consola las preguntas y respuestas de cada punto correspondiente del práctico 0.
+A continuación se transcriben las mismas tal cual se imprimen al ejecutar cada archivo.
+
+
+(1.a)
+Resta
+¿Qué valor devuelve el programa si el minuendo es 10 y el sustraendo es 2?
+8
+
+
+(1.b)
+Multiplicación
+¿Qué valor devuelve el programa si los factores son 2, 17 y 6?
+204
+
+
+(2.a) y (2.b)
+Área de un rectángulo
+¿Cuál es el área de un rectángulo de 5 cm de base y de 3 cm de altura? 
+15
+¿Cuál es el área de un rectángulo de 12.5 cm de base y de 5.3 cm de altura?
+66.25
+
+
+(3.a) y (3.b)
+Conversión de grados Fahrenheit a grados Celsius
+¿Cuántos grados Celsius son 50 grados Fahrenheit?
+10
+¿Cuántos grados Celsius son 75 grados Fahrenheit?
+23.88888888888889
+
+
+(4.a), (4.b) y (4.c)
+Promedio de tres números
+¿Cuál es el promedio de 5, 7 y 9?
+7
+¿Cuál es el promedio de -2, -3 y -8?
+-4.333333333333333
+¿Cuál es el promedio de -1.2, 5.3 y -3.3?
+0.2666666666666666
+
